@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as Technical Lead at Microexcel Inc.
+- 🔭 &nbsp; I’m currently working as Senior Software Engineer at Inpivota Corp.
 - 🤔 &nbsp; I love to explore and learn new technologies and software engineering developments.
 - 🎓 &nbsp; Studied Computer Science (Yes, both Graduate and Post Graduate).
 - 💼 &nbsp; By the way, I'm a Full Stack Developer.
