@@ -34,7 +34,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   
 
@@ -49,7 +48,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-&nbsp; <a href="https://www.linkedin.com/in/samsul-tech-lead/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="[https://www.linkedin.com/in/samsul-tech-lead/](https://www.linkedin.com/in/samsul-senior-software-engineer/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sam45564@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
