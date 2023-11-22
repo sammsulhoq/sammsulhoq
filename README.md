@@ -1,13 +1,13 @@
-<h2> Hey there! I'm Samsul Hoque Choudhury. :wave: </h2>
+<h2> Hey there! I'm Sammsul Hoque Choudhary. :wave: </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working as Senior Software Engineer at Inpivota Corp.
 - 🤔 &nbsp; I love to explore and learn new technologies and software engineering developments.
-- 🎓 &nbsp; Studied Computer Science (Yes, both Graduate and Post Graduate).
+- 🎓 &nbsp; Studied Computer Science (Yes, both Graduation and Post Graduation).
 - 💼 &nbsp; By the way, I'm a Full Stack Developer.
 - 🌱 &nbsp; Interested in Data Science, AI and ML. Striving to learn these.
-- ✍️ &nbsp; At present learning ELK Stack and React Native.
+- ✍️ &nbsp; At present learning Advanced JS.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -48,8 +48,8 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-&nbsp; <a href="https://www.linkedin.com/in/samsul-senior-software-engineer/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sam45564@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/sammsulhoq/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:sammsulhoq@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [sam45564](https://github.com/sam45564)
+⭐️ From [sam45564](https://github.com/sammsulhoq)
