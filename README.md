@@ -52,4 +52,4 @@
 &nbsp; <a href="mailto:sammsulhoq@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [sam45564](https://github.com/sammsulhoq)
+⭐️ From [sammsulhoq](https://github.com/sammsulhoq)
