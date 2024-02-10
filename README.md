@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as Senior Software Engineer at Inpivota Corp.
+- 🔭 &nbsp; I’m currently working as Senior Software Engineer at RithmXO Software.
 - 🤔 &nbsp; I love to explore and learn new technologies and software engineering developments.
 - 🎓 &nbsp; Studied Computer Science (Yes, both Graduation and Post Graduation).
-- 💼 &nbsp; By the way, I'm a Full Stack Developer.
+- 💼 &nbsp; By the way, I'm a Full Stack Developer but I love Backend development.
 - 🌱 &nbsp; Interested in Data Science, AI and ML. Striving to learn these.
-- ✍️ &nbsp; At present learning Advanced JS.
+- ✍️ &nbsp; At present learning NestJS, Serverless Applications and Designing Scalable Applications.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -37,9 +37,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammsulhoq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sammsulhoq's Github Stats">
+[//]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammsulhoq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sammsulhoq's Github Stats">)
 
 </br>
 
