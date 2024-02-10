@@ -14,15 +14,14 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=00599C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vue)
-  [//]: <> (![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=D6002F))
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery&logoColor=0865A6)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
