@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Senior Software Engineer with 1o+ years of experience.
+- 🔭 &nbsp; I’m a Senior Software Engineer with 10+ years of experience.
 - 🤔 &nbsp; I love to explore/learn new technologies and I enjoy developing applications.
 - 🎓 &nbsp; Studied Computer Science (Yes, both Graduation and Post Graduation).
 - 💼 &nbsp; By the way, I'm a Full Stack Developer but I love Backend development.
