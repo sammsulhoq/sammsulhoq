@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as Senior Software Engineer at RithmXO Software.
-- 🤔 &nbsp; I love to explore and learn new technologies and software engineering developments.
+- 🔭 &nbsp; I’m a Senior Software Engineer with 1o+ years of experience.
+- 🤔 &nbsp; I love to explore/learn new technologies and I enjoy developing applications.
 - 🎓 &nbsp; Studied Computer Science (Yes, both Graduation and Post Graduation).
 - 💼 &nbsp; By the way, I'm a Full Stack Developer but I love Backend development.
 - 🌱 &nbsp; Interested in Data Science, AI and ML. Striving to learn these.
-- ✍️ &nbsp; At present learning NestJS, Serverless Applications and Designing Scalable Applications.
+- ✍️ &nbsp; At present Serverless Applications and Designing Scalable Applications.
 
 <h3>🛠 Tech Stack</h3>
 
