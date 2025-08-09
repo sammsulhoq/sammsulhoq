@@ -1,53 +1,48 @@
-<h2> Hey there! I'm Sammsul Hoque Choudhary. :wave: </h2>
+<h1 align="center">Hi 👋, I'm Sammsul Hoque Choudhary</h1>
+<h3 align="center">Senior Software Engineer | Backend Specialist | SaaS & Cloud Enthusiast</h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
+---
 
-- 🔭 &nbsp; I’m a Senior Software Engineer with 10+ years of experience.
-- 🤔 &nbsp; I love to explore/learn new technologies and I enjoy developing applications.
-- 🎓 &nbsp; Studied Computer Science (Yes, both Graduation and Post Graduation).
-- 💼 &nbsp; By the way, I'm a Full Stack Developer but I love Backend development.
-- 🌱 &nbsp; Interested in Data Science, AI and ML. Striving to learn these.
-- ✍️ &nbsp; At present Serverless Applications and Designing Scalable Applications.
+### 🚀 About Me
+- 💻 **Senior Software Engineer** with 11+ years of experience in designing and building scalable backend systems.
+- 🔹 Strong expertise in **.NET**, **Python (FastAPI)**, **PostgreSQL**, and **AWS**.
+- 🌐 Experience in **microservices**, **distributed systems**, and **cloud-native architectures**.
+- 🛠 Passionate about **system design**, **high-performance APIs**, and **SaaS platforms**.
+- 🔭 Currently working on **distributed caching with consistent hashing** and **AI/ML projects for space tech**.
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vue)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery&logoColor=0865A6)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=31648C)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=DE33A6)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-  
-
-[//]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammsulhoq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sammsulhoq's Github Stats">)
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammsulhoq&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sammsulhoq/github-readme-stats)
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-&nbsp; <a href="https://www.linkedin.com/in/sammsulhoq/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sammsulhoq@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-⭐️ From [sammsulhoq](https://github.com/sammsulhoq)
+---
+
+### 📚 Currently Learning
+- Advanced **System Design**
+- **Design Patterns** in C# and Java
+- **AI/ML applications** for drones and space tech
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sammsulhoq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sammsulhoq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+💡 *“Code is not just about solving problems — it’s about solving them elegantly, at scale, and for the future.”*
